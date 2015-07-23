@@ -1,0 +1,255 @@
+(Chelsea,Arsenal,2,0,05-10-2014,
+(
+	(Courtois,0.27),
+	(Ivanovic,Cahill,Terry,Azpilicueta),
+	(Fabregas,Matic,(Schurrle,0.77),(Oscar,0.97),Hazard),
+	Diego Costa,
+	((Cech,0.73,G),(Obi Mikel,0.23,M),(Willian,0.03,M))
+),
+(
+	Szczesny,
+	(Chambers,Mertesacker,Koscielny,Gibbs),
+	(Ozil,(Cazorla,0.77),Flamini,(Wilshere,0.92),(Sanchez,0.88)),
+	Welbeck,
+	((Oxlade-Chamberlain,0.23,F),(Podolski,0.12,F),(Rosicky,0.08,M))
+));
+(Arsenal,Manchester United,1,2,22-11-2014,
+(
+	(Szczesny,0.66),
+	(Chambers,Mertesacker,Nacho Monreal,Gibbs),
+	((Ramsey,0.86),Arteta,Oxlade-Chamberlain,(Wilshere,0.61),Sanchez),
+	Welbeck,
+	((Cazorla,0.39,M),(Martinez,0.34,G),(Giroud,0.14,F))
+),
+(
+	De Gea,
+	(McNair,Smalling,Blackett),
+	(Valencia,Fellaini,Carrick,(Shaw,0.18),Rooney),
+	((van Persie,0.83),di Maria),
+	((Young,0.81,M),(Wilson,0.17,F),(Fletcher,0.01,M))
+));
+(Manchester United,Arsenal,1,2,09-03-2015,
+(
+	De Gea,
+	(Valencia,Smalling,(Rojo,0.81),(Shaw,0.5)),
+	(di Maria,(Ander Herrera,0.5),Blind,Fellaini,Young),
+	Rooney,
+	((Jones,0.5,D),(Carrick,0.5,D),(Januzaj,0.19,M))
+),
+(
+	Szczesny,
+	((Bellerin,0.73),Mertesacker,Koscielny,Nacho Monreal),
+	(Coquelin,Cazorla,(Oxlade-Chamberlain,0.57),Ozil,Sanchez),
+	(Welbeck,0.82),
+	((Ramsey,0.43,M),(Chambers,0.27,D),(Giroud,0.18,F))
+));
+(Porto,Benfica,0,2,14-12-2014,
+(
+	Fabiano,
+	(Marcano,Danilo,(Alex Sandro,0.86),Martins Indi),
+	(Brahimi,(Herrera,0.65),Casemiro,Oliver Torres),
+	(Martinez,(Tello,0.65)),
+	((Ricardo Quaresma,0.35,M),(Quintero,0.35,M),(Aboubakar,0.14,F))
+),
+(
+	Julio Cesar,
+	((Luisao,0.85),Pereira,Jardel),
+	(Enzo Perez,Gaitan,Salvio,Almeida,Samaris,(Talisca,0.89)),
+	Lima,
+	((Cesar,0.15,D),(John,0.11,F))
+));
+(Milan,Inter Milan,1,1,23-11-2014,
+(
+	Diego Lopez,
+	(Rami,Mexes,Zapata,De Sciglio),
+	(Bonaventura,Essien,(Muntari,0.85),El Shaarawy),
+	(Fernando Torres,0.81),
+	((Honda,0.19,F),(Poli,0.15,M))
+),
+(
+	Handanovic,
+	(Nagatomo,Ranocchia,Juan Jesus,Dodo),
+	(Kuzmanovic,Guarin,(Obi,0.8),Kovacic),
+	(Palacio,(Icardi,0.99)),
+	((Hernanes,0.2,M),(Osvaldo,0.01,F))
+));
+(Schalke,Bayern,1,1,30-08-2014,
+(
+	Fahrmann,
+	((Ayhan,0.85),(Felipe Santana,0.9),Matip,Howedes),
+	((Kirchhoff,0.33),Hoger,Sam,Meyer,Draxler),
+	Choupo-Moting,
+	((Neustadter,0.67,M),(Aogo,0.15,M),(Fuchs,0.1,D))
+),
+(
+	Neuer,
+	(Lahm,(Boateng,0.67),Badstuber,Alaba),
+	(Rode,(Xabi Alonso,0.76),Shaqiri,(Gotze,0.63)),
+	(Muller,Lewandowski),
+	((Juan Bernat,0.37,M),(Dante,0.33,D),(Hojbjerg,0.24,M))
+));
+(Chelsea,Schalke,1,1,17-09-2014,
+(
+	Courtois,
+	(Ivanovic,Cahill,Terry,Filipe Luis),
+	((Ramires,0.75),Fabregas,(Willian,0.82),Matic,Hazard),
+	(Drogba,0.82),
+	((Oscar,0.25,M),(Remy,0.18,F),(Diego Costa,0.18,F))
+),
+(
+	Fahrmann,
+	(Hoger,Ayhan,Neustadter,Fuchs),
+	((Sam,0.87),Boateng,(Meyer,0.82),Aogo,(Draxler,0.96)),
+	Huntelaar,
+	((Choupo-Moting,0.18,F),(Barnetta,0.13,M),(Obasi,0.04,M))
+));
+(Schalke,Chelsea,0,5,25-11-2014,
+(
+	Fahrmann,
+	(Uchida,Felipe Santana,Neustadter,Howedes),
+	(Hoger,(Kirchhoff,0.5),Choupo-Moting,(Boateng,0.3),Aogo),
+	Huntelaar,
+	((Clemens,0.5,M),(Meyer,0.7,M))
+),
+(
+	Courtois,
+	(Ivanovic,Cahill,Terry,Azpilicueta),
+	(Fabregas,Matic,Willian,(Oscar,0.83),Hazard),
+	(Diego Costa,0.73),
+	((Drogba,0.27,F),(Ramires,0.17,M))
+)); 
+(Schalke,Real Madrid,0,2,18-02-2015,
+(
+	Wellenreuther,
+	(Uchida,Howedes,Matip,Nastasic,Aogo),
+	((Hoger,0.89),(Neustadter,0.63),Boateng),
+	((Huntelaar,0.26),Choupo-Moting),
+	((Platte,0.74,F),(Kirchhoff,0.37,D),(Meyer,0.11,M))
+),
+(
+	Casillas,
+	((Daniel Carvajal,0.91),Pepe,Varane,Marcelo),
+	(Lucas Silva,Kroos,(Isco,0.95)),
+	(Bale,(Benzema,0.87),Cristiano Ronaldo),
+	((Hernandez,0.13,F),(Arbeloa,0.09,D),(Illarramendi,0.05,M))
+));
+(Real Madrid,Schalke,3,4,10-03-2015,
+(
+	Casillas,
+	((Fabio Coentrao,0.65),Varane,Pepe,(Arbeloa,0.92)),
+	(Isco,Kroos,(Khedira,0.65)),
+	(Ronaldo,Bale,Benzema),
+	((Marcelo,0.35,D),(Modric,0.35,M),(Nacho,0.08,D))
+),
+(
+	Wellenreuther,
+	(Howedes,Matip,Nastasic),
+	((Barnetta,0.9),Neustadter,Fuchs,(Hoger,0.63),Meyer),
+	((Choupo-Moting,0.32),Huntelaar),
+	((Sane,0.68,M),(Goretzka,0.37,M),(Uchida,0.1,D))
+));
+(Dortmund,Bayern,2,0,13-08-2014,
+(
+	Langerak,
+	(Piszczek,Papastathopoulos,Ginter,(Schmelzer,0.5)),
+	((Kirch,0.95),Kehl,Hofmann,Mkhitaryan),
+	(Immobile,(Aubameyang,0.7)),
+	((Durm,0.5,D),(Ramos,0.3,F),(Bender,0.05,M))
+),
+(
+	Neuer,
+	(Boateng,(Javi Martinez,0.35),Alaba),
+	(Rode,Gaudino,(Hojbjerg,0.66),Juan Bernat,(Muller,0.5),Shaqiri),
+	Lewandowski,
+	((Dante,0.65,D),(Lahm,0.5,D),(Gotze,0.34,M))
+),neutral);
+(Bayern,Dortmund,2,1,01-11-2014,
+(
+	Neuer,
+	(Benatia,Boateng,Alaba),
+	(Lahm,Xabi Alonso,Robben,Juan Bernat,(Gotze,0.78)),
+	((Muller,0.9),(Lewandowski,0.98)),
+	((Ribery,0.22,M),(Pizarro,0.1,F),(Rode,0.02,D))
+),
+(
+	Weidenfeller,
+	(Piszczek,Papastathopoulos,(Hummels,0.5),Durm),
+	(Kehl,Bender,Mkhitaryan,(Kagawa,0.79)),
+	((Aubameyang,0.9),Reus),
+	((Subotic,0.5,D),(Gro?kreutz,0.21,M),(Ramos,0.1,F))
+));
+(Dortmund,Bayern,0,1,04-04-2015,
+(
+	Weidenfeller,
+	(Papastathopoulos,Subotic,Hummels,Schmelzer),
+	(Bender,(Gundogan,0.88),(Blaszczykowski,0.75),Reus,(Kampl,0.75)),
+	Aubameyang,
+	((Kagawa,0.25,M),(Ramos,0.25,F),(Mkhitaryan,0.12,M))
+),
+(
+	Neuer,
+	(Benatia,Boateng,Dante),
+	(Xabi Alonso,Rafinha,Juan Bernat,(Lahm,0.77),(Schweinsteiger,0.65)),
+	((Muller,0.88),Lewandowski),
+	((Rode,0.35,D),(Thiago Alcantara,0.23,M),(Gotze,0.12,M))
+));
+(Schalke,Dortmund,2,1,27-09-2014,
+(
+	Fahrmann,
+	(Uchida,Matip,Neustadter,Aogo),
+	((Boateng,0.79),(Hoger,0.88),(Sam,0.41),Meyer,Choupo-Moting),
+	Huntelaar,
+	((Clemens,0.59,M),(Fuchs,0.21,D),(Ayhan,0.12,D))
+),
+(
+	Weidenfeller,
+	(Piszczek,Subotic,(Hummels,0.89),Durm),
+	(Aubameyang,Ginter,Bender,(Gro?kreutz,0.77)),
+	(Ramos,(Immobile,0.63)),
+	((Kagawa,0.37,M),(Jojic,0.23,M),(Papastathopoulos,0.11,D))
+));
+(Dortmund,Schalke,3,0,28-02-2015,
+(
+	Weidenfeller,
+	(Kirch,Subotic,Hummels,Schmelzer),
+	((Sahin,0.97),(Gundogan,0.92),Mkhitaryan,(Kagawa,0.85),Reus),
+	Aubameyang,
+	((Blaszczykowski,0.15,M),(Bender,0.08,M),(Kehl,0.03,M))
+),
+(
+	Wellenreuther,
+	(Howedes,Neustadter,Nastasic),
+	(Uchida,Hoger,Aogo,Fuchs,Choupo-Moting,(Boateng,0.71)),
+	Huntelaar,
+	(Barnetta,0.29,M)
+));
+(Dortmund,Arsenal,2,0,16-09-2014,
+(
+	Weidenfeller,
+	(Durm,Subotic,Papastathopoulos,Schmelzer),
+	(Aubameyang,Bender,Kehl,Gro?kreutz,Mkhitaryan),
+	Immobile,
+	((Ginter,0.5,D),(Jojic,0.12,M),(Ramos,0.04,F))
+),
+(
+	Szczesny,
+	(Bellerin,Mertesacker,Koscielny,Gibbs),
+	(Sanchez,(Ramsey,0.69),(Arteta,0.86),Wilshere,(Ozil,0.69)),
+	Welbeck,
+	((Oxlade-Chamberlain,0.31,F),(Cazorla,0.31,M),(Podolski,0.14,F))
+));
+(Arsenal,Dortmund,2,0,26-11-2014,
+(
+	Martinez,
+	(Chambers,Mertesacker,Nacho Monreal,Gibbs),
+	(Ramsey,(Arteta,0.75),Oxlade-Chamberlain,Cazorla,Sanchez),
+	(Sanogo,0.88),
+	((Flamini,0.25,M),(Podolski,0.12,F))
+),
+(
+	Weidenfeller,
+	(Piszczek,Subotic,Ginter,Schmelzer),
+	(Mkhitaryan,Bender,Gundogan,(Groskreutz,0.87)),
+	((Aubameyang,0.68),(Immobile,0.68)),
+	((Ramos,0.32,F),(Kagawa,0.32,M),(Jojic,0.13,M))
+));
